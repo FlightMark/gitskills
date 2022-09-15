@@ -1,3 +1,3 @@
 # gitskills
 Creating a new branch is quick and simple.
-branch manage strategy.
+branch use manage strategy.
